@@ -50,6 +50,9 @@ The task of creating a Temperature Monitoring System in Tinkercad involves simul
 - Computers and servers use temperature sensors to prevent overheating.
 - Fans or cooling systems are activated when temperatures exceed safe limits.
 
+  *OUTPUT*
+  <img width="1297" height="724" alt="Image" src="https://github.com/user-attachments/assets/24b9c0b0-1fd5-459f-aec6-caeaed368957" />
+
 
 
 
